@@ -101,3 +101,16 @@
   border-radius: 8px;
   cursor: pointer;
 }
+
+/* contact us form */
+.contactus {
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+.contactus p {
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}

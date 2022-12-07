@@ -11,6 +11,11 @@ const Navbar = () => {
           backgroundColor: '#f1356d',
           borderRadius: '8px' 
         }}>New Blog</Link>
+        <Link to="/contactus" style={{ 
+          color: 'white', 
+          backgroundColor: '#f1356d',
+          borderRadius: '8px' 
+        }}>Contact Us</Link>
       </div>
     </nav>
   );
